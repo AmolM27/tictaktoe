@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "tictaktoe",
+    "libraryId": "e83f9a72-35d8-4671-894e-92e579c5591c",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tictaktoe-client-side-solution",
+    "id": "e83f9a72-35d8-4671-894e-92e579c5591c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/tictaktoe.sppkg"
+  }
+}
